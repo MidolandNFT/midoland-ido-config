@@ -1,6 +1,3 @@
 {
-  "isCheckWhiteList1": 1,
-  "isCheckWhiteList2": 1,
-  "isCheckWhiteList3": 1
-
+  "isCheckWhite": [1,1,1]
 }
